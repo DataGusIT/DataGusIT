@@ -15,10 +15,10 @@ Meu nome é [Gustavo], mas aqui no GitHub você pode me chamar de **DevGusIT**. 
 Aqui estão algumas das tecnologias e ferramentas com as quais eu trabalho:
 
 - **Linguagens de Programação:**
-  - ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white)
-  - ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-  - ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
-  
+  - ![JavaScript](https://img.icons8.com/color/48/000000/javascript.png) JavaScript
+  - ![Python](https://img.icons8.com/color/48/000000/python.png) Python
+  - ![React](https://img.icons8.com/color/48/000000/react-native.png) React
+
 - **Frameworks e Bibliotecas:**
   - ![React.js](https://img.shields.io/badge/-React.js-61DAFB?style=flat-square&logo=react&logoColor=black)
   - ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
