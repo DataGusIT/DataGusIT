@@ -2,7 +2,7 @@
 
 ## Sobre Mim
 
-Meu nome é [Gustavo], mas aqui no GitHub você pode me chamar de **DevGusIT**. Sou um entusiasta da tecnologia e estou sempre explorando novas ferramentas e frameworks. 💻
+Meu nome é Gustavo, mas aqui no GitHub você pode me chamar de **DevGusIT**. Sou um entusiasta da tecnologia e estou sempre explorando novas ferramentas e frameworks. 💻
 
 - 🌱 Atualmente, estou aprendendo mais sobre Python, Django, Flask, Git, BI com foco para dados.
 - 💬 Sinta-se à vontade para me perguntar sobre [suas áreas de conhecimento ou tecnologias específicas].
