@@ -6,7 +6,7 @@ Meu nome é [Gustavo], mas aqui no GitHub você pode me chamar de **DevGusIT**. 
 
 - 🌱 Atualmente, estou aprendendo mais sobre Python, Django, Flask, Git, BI com foco para dados.
 - 💬 Sinta-se à vontade para me perguntar sobre [suas áreas de conhecimento ou tecnologias específicas].
-- 📫 Você pode me contatar em g.moreno.souza05@gmail.com ou[[pelo meu Linkedln(https://www.linkedin.com/in/gustavo-moreno-8a925b26a/)].
+- 📫 Você pode me contatar pelo e-mail [g.moreno.souza05@gmail.com](mailto:g.moreno.souza05@gmail.com) ou pelo meu [LinkedIn](https://www.linkedin.com/in/gustavo-moreno-8a925b26a/).
 - ⚡ Curiosidade: Sou apaixonado por tecnologia e, nas horas vagas, gosto de explorar novas ferramentas e frameworks. Além disso, adoro jogar videogames e aprender sobre desenvolvimento de jogos!
 
 ## Habilidades
