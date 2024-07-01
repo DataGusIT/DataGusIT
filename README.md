@@ -4,11 +4,10 @@
 
 Meu nome é [Gustavo], mas aqui no GitHub você pode me chamar de **DevGusIT**. Sou um entusiasta da tecnologia e estou sempre explorando novas ferramentas e frameworks. 💻
 
-- 🌱 Atualmente, estou aprendendo mais sobre [tecnologias que você está aprendendo, como Python, Django, etc.].
-- 👯 Estou buscando colaborar em projetos de [tipos de projetos que você gostaria de colaborar, como web development, machine learning, etc.].
+- 🌱 Atualmente, estou aprendendo mais sobre Python, Django, Flask, Git, BI com foco para dados.
 - 💬 Sinta-se à vontade para me perguntar sobre [suas áreas de conhecimento ou tecnologias específicas].
-- 📫 Você pode me contatar em [g.moreno.souza05@gmail.com] ou [[outras formas de contato](https://www.linkedin.com/in/gustavo-moreno-8a925b26a/)].
-- ⚡ Curiosidade: [algo interessante sobre você, como hobbies ou interesses não relacionados à tecnologia].
+- 📫 Você pode me contatar em [g.moreno.souza05@gmail.com] ou [[pelo meu Linkedln](https://www.linkedin.com/in/gustavo-moreno-8a925b26a/)].
+- ⚡ Curiosidade: Sou apaixonado por tecnologia e, nas horas vagas, gosto de explorar novas ferramentas e frameworks. Além disso, adoro jogar videogames e aprender sobre desenvolvimento de jogos!
 
 ## Habilidades
 
@@ -32,15 +31,7 @@ Meu nome é [Gustavo], mas aqui no GitHub você pode me chamar de **DevGusIT**. 
   - ![CSS](https://img.icons8.com/color/48/000000/css3.png) CSS
   - ![Power BI](https://img.icons8.com/color/48/000000/power-bi.png) Power BI
   - ![Tableau](https://img.icons8.com/color/48/000000/tableau-software.png) Tableau
-
-
-## Projetos Destacados
-
-Aqui estão alguns projetos nos quais tenho trabalhado recentemente:
-
-- [Projeto 1](link para o projeto) - Descrição breve do projeto.
-- [Projeto 2](link para o projeto) - Descrição breve do projeto.
-- [Projeto 3](link para o projeto) - Descrição breve do projeto.
+  - 
 
 ## Estatísticas do GitHub
 
