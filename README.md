@@ -1,7 +1,7 @@
-# 📊 Analista de Dados & Engenheiro ETL
+# 📊 Esdudante com Foco em Dados
 
 ## 🎯 Sobre Mim
-Sou um profissional apaixonado por dados, especializado em transformar informações brutas em insights acionáveis. Com experiência em análise de dados, ETL e visualização, busco constantemente aprimorar minhas habilidades e contribuir para decisões baseadas em dados.
+Meu nome é Gustavo, sou um estudante de Gestão de TI apaixonado por dados, focado em transformar informações brutas em insights acionáveis. Busco experiência em análise de dados, ETL e visualização, procuro constantemente aprimorar minhas habilidades e contribuir para decisões baseadas em dados.
 
 ```python
 class DataAnalyst:
