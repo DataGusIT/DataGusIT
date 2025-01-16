@@ -1,42 +1,91 @@
-# 👋 Olá! Seja Bem-vindo ao Meu Perfil no GitHub!
+# 🚀 Bem-vindo ao meu Universo Digital!
 
-## Sobre Mim
+## 💫 Sobre Mim
+Sou um desenvolvedor apaixonado por transformar ideias em código. Minha jornada na tecnologia é movida pela curiosidade constante e pelo desejo de criar soluções inovadoras que façam a diferença.
 
-Meu nome é Gustavo, mas aqui no GitHub você pode me chamar de **DevGusIT**. Sou um entusiasta da tecnologia e estou sempre explorando novas ferramentas e frameworks. 💻
+```python
+class Developer:
+    def __init__(self):
+        self.name = "Seu Nome"
+        self.role = "Desenvolvedor Full Stack"
+        self.languages = ["Python", "JavaScript", "SQL"]
+        self.tools = ["React", "Node.js", "Django", "Docker"]
+        self.interests = ["Data Science", "Machine Learning", "Cloud Computing"]
+```
 
-- 🌱 Atualmente, estou aprendendo mais sobre Python, Django, Flask, Git, BI com foco para dados.
-- 💬 Sinta-se à vontade para me perguntar sobre as tecnologias apresentadas a cima.
-- 📫 Você pode me contatar pelo e-mail [g.moreno.souza05@gmail.com](mailto:g.moreno.souza05@gmail.com) ou pelo meu [LinkedIn](https://www.linkedin.com/in/gustavo-moreno-8a925b26a/).
-- ⚡ Curiosidade: Sou apaixonado por tecnologia e, nas horas vagas, gosto de explorar novas ferramentas e frameworks. Além disso, adoro jogar videogames e aprender sobre desenvolvimento de jogos!
+## 🛠️ Stack Tecnológico
 
-## Habilidades
+### Linguagens de Programação
+<div align="left">
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+    <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+</div>
 
-- **Linguagens de Programação:**
-  - ![JavaScript](https://img.icons8.com/color/48/000000/javascript.png) JavaScript
-  - ![Python](https://img.icons8.com/color/48/000000/python.png) Python
-  - ![SQL](https://img.icons8.com/color/48/000000/sql.png) SQL
-  
-- **Frameworks e Bibliotecas:**
-  - ![React](https://img.icons8.com/color/48/000000/react-native.png) React.js
-  - ![Node.js](https://img.icons8.com/color/48/000000/nodejs.png) Node.js
-  - ![Django](https://img.icons8.com/color/48/000000/django.png) Django
-  
-- **Ferramentas:**
-  - ![Git](https://img.icons8.com/color/48/000000/git.png) Git
-  - ![Docker](https://img.icons8.com/color/48/000000/docker.png) Docker
-  - ![VS Code](https://img.icons8.com/color/48/000000/visual-studio-code-2019.png) VS Code
-  
-- **Outros:**
-  - ![HTML](https://img.icons8.com/color/48/000000/html-5.png) HTML
-  - ![CSS](https://img.icons8.com/color/48/000000/css3.png) CSS
-  - ![Power BI](https://img.icons8.com/color/48/000000/power-bi.png) Power BI
-  - ![Tableau](https://img.icons8.com/color/48/000000/tableau-software.png) Tableau
-  - 
+### Frameworks & Bibliotecas
+<div align="left">
+    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+    <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+    <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
+    <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
+</div>
 
-## Estatísticas do GitHub
+### Ferramentas & Tecnologias
+<div align="left">
+    <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+    <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+</div>
 
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=DevGusIT&show_icons=true&theme=radical)
+### Business Intelligence & Analytics
+<div align="left">
+    <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+    <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white" />
+</div>
+
+## 📊 Métricas do GitHub
+
+<div align="center">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SeuUsuario&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SeuUsuario&layout=compact&langs_count=7&theme=tokyonight"/>
+</div>
+
+## 🌟 Projetos em Destaque
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=SeuUsuario&repo=SeuRepositorio&theme=tokyonight)](https://github.com/SeuUsuario/SeuRepositorio)
+
+## 📫 Vamos Conectar?
+
+<div align="left">
+    <a href="mailto:seu.email@gmail.com">
+        <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    </a>
+    <a href="https://www.linkedin.com/in/seu-linkedin/">
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    </a>
+    <a href="https://medium.com/@seu-medium">
+        <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />
+    </a>
+</div>
+
+## ⚡ Fun Facts
+
+- 🌱 Atualmente explorando: Machine Learning e Cloud Computing
+- 📚 Sempre estudando: Novas tecnologias e metodologias de desenvolvimento
+- 🎮 Nas horas vagas: Desenvolvimento de jogos e projetos pessoais
+- 🎯 Meta 2024: Contribuir mais para projetos open source
 
 ---
 
-✨ **Obrigado por visitar meu perfil!** ✨
+<div align="center">
+    <img src="https://komarev.com/ghpvc/?username=SeuUsuario&color=blue&style=flat-square&label=Visualizações+do+Perfil" />
+</div>
+
+```javascript
+while (alive) {
+    eat();
+    sleep();
+    code();
+    repeat();
+}
+```
