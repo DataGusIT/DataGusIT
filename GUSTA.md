@@ -103,7 +103,7 @@ class DataAnalyst:
         <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
     </a>
     <a href="https://www.linkedin.com/in/seu-linkedin/">
-        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+        <img src="https://www.linkedin.com/in/gustavo-moreno-8a925b26a/" />
     </a>
     <a href="https://medium.com/@seu-medium">
         <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />
