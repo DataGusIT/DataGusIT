@@ -1,58 +1,100 @@
-# 🚀 Bem-vindo ao meu Universo Digital!
+# 📊 Analista de Dados & Engenheiro ETL
 
-## 💫 Sobre Mim
-Sou um desenvolvedor apaixonado por transformar ideias em código. Minha jornada na tecnologia é movida pela curiosidade constante e pelo desejo de criar soluções inovadoras que façam a diferença.
+## 🎯 Sobre Mim
+Sou um profissional apaixonado por dados, especializado em transformar informações brutas em insights acionáveis. Com experiência em análise de dados, ETL e visualização, busco constantemente aprimorar minhas habilidades e contribuir para decisões baseadas em dados.
 
 ```python
-class Developer:
+class DataAnalyst:
     def __init__(self):
-        self.name = "Seu Nome"
-        self.role = "Desenvolvedor Full Stack"
-        self.languages = ["Python", "JavaScript", "SQL"]
-        self.tools = ["React", "Node.js", "Django", "Docker"]
-        self.interests = ["Data Science", "Machine Learning", "Cloud Computing"]
+        self.name = "Gustavo Moreno Souza"
+        self.role = "Analista de Dados"
+        self.tools = {
+            "databases": ["PostgreSQL", "SQL Server"],
+            "visualization": ["Power BI", "Excel", "Matplotlib"],
+            "programming": ["Python", "DAX", "NumPY",],
+            "etl_tools": ["SSIS", "Python ETL", "Power Query"]
+        }
+        self.focus = ["Data Analysis", "ETL", "Data Visualization", "Business Intelligence"]
 ```
 
 ## 🛠️ Stack Tecnológico
 
-### Linguagens de Programação
+### Banco de Dados & SQL
 <div align="left">
-    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-    <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+    <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+    <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sql&logoColor=white" />
+    <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" />
 </div>
 
-### Frameworks & Bibliotecas
-<div align="left">
-    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-    <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-    <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
-    <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
-</div>
-
-### Ferramentas & Tecnologias
-<div align="left">
-    <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-    <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-</div>
-
-### Business Intelligence & Analytics
+### Visualização & BI
 <div align="left">
     <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
-    <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white" />
+    <img src="https://img.shields.io/badge/DAX-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+    <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
 </div>
 
-## 📊 Métricas do GitHub
+### Python & Bibliotecas
+<div align="left">
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+    <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+    <img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+    <img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white" />
+</div>
+
+## 💡 Principais Habilidades
+
+- **SQL & Databases:**
+  ```sql
+  SELECT 
+      'Database Design' as skill,
+      'Advanced SQL Queries' as expertise,
+      'Data Modeling' as strength,
+      'Performance Optimization' as focus
+  FROM skills
+  WHERE impact = 'High';
+  ```
+
+- **Power BI & DAX:**
+  ```dax
+  EVALUATE
+  SUMMARIZECOLUMNS(
+      "Skill", "Data Modeling",
+      "Expertise", "DAX Calculations",
+      "Knowledge", "Custom Visuals",
+      "Level", "Advanced"
+  )
+  ```
+
+- **Python Data Analysis:**
+  ```python
+  skills_df = pd.DataFrame({
+      'category': ['ETL', 'Analysis', 'Visualization'],
+      'tools': ['Pandas', 'Numpy', 'Matplotlib'],
+      'level': ['Advanced', 'Advanced', 'Intermediate']
+  })
+  ```
+
+## 📊 Projetos em Destaque
+
+### 1. Análise de Dados e ETL
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=SeuUsuario&repo=projeto-etl&theme=blue-green)](https://github.com/SeuUsuario/projeto-etl)
+
+### 2. Dashboards Power BI
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=SeuUsuario&repo=dashboards&theme=blue-green)](https://github.com/SeuUsuario/dashboards)
+
+## 📈 Métricas do GitHub
 
 <div align="center">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SeuUsuario&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SeuUsuario&layout=compact&langs_count=7&theme=tokyonight"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SeuUsuario&show_icons=true&theme=blue-green&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SeuUsuario&layout=compact&langs_count=7&theme=blue-green"/>
 </div>
 
-## 🌟 Projetos em Destaque
+## 🎓 Certificações & Especializações
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=SeuUsuario&repo=SeuRepositorio&theme=tokyonight)](https://github.com/SeuUsuario/SeuRepositorio)
+- 🏅 SQL para Análise de Dados
+- 🏅 Python para Análise de Dados
+- 🏅 Power BI
+- 🏅 Analise de Dados com Excel
 
 ## 📫 Vamos Conectar?
 
@@ -68,12 +110,18 @@ class Developer:
     </a>
 </div>
 
-## ⚡ Fun Facts
+## 📚 Aprendizado Contínuo
 
-- 🌱 Atualmente explorando: Machine Learning e Cloud Computing
-- 📚 Sempre estudando: Novas tecnologias e metodologias de desenvolvimento
-- 🎮 Nas horas vagas: Desenvolvimento de jogos e projetos pessoais
-- 🎯 Meta 2024: Contribuir mais para projetos open source
+```mermaid
+graph LR
+    A[SQL] -->|Evolução| B[Advanced SQL]
+    B --> C[Data Modeling]
+    C --> D[Performance Tuning]
+    E[Python] -->|Desenvolvimento| F[Data Analysis]
+    F --> G[Machine Learning]
+    H[Power BI] -->|Expertise| I[Advanced DAX]
+    I --> J[Custom Visuals]
+```
 
 ---
 
@@ -81,11 +129,4 @@ class Developer:
     <img src="https://komarev.com/ghpvc/?username=SeuUsuario&color=blue&style=flat-square&label=Visualizações+do+Perfil" />
 </div>
 
-```javascript
-while (alive) {
-    eat();
-    sleep();
-    code();
-    repeat();
-}
-```
+> "Em Deus e nos dados nós confiamos. Todos os outros devem trazer dados." - W. Edwards Deming
