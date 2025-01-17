@@ -99,7 +99,7 @@ class DataAnalyst:
 ## 📫 Vamos Conectar?
 
 <div align="left">
-    <a href="mailto:seu.email@gmail.com">
+    <a href="mailto:g.moreno.souza05@gmail.com">
         <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
     </a>
      <a href="https://www.linkedin.com/in/gustavo-moreno-8a925b26a/">
