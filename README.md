@@ -1,4 +1,4 @@
-# 📊 Estudante com Foco em Dados
+# Olá! Meu nome é Gustavo, seja muito bem-vindo 📊 
 
 ## 🎯 Sobre Mim
 Meu nome é Gustavo, sou um estudante de Gestão de TI apaixonado por dados, focado em transformar informações brutas em insights acionáveis. Busco experiência em análise de dados, ETL e visualização, procuro constantemente aprimorar minhas habilidades e contribuir para decisões baseadas em dados.
