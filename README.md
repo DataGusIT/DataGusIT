@@ -79,8 +79,16 @@ class DataAnalyst:
 ### 1. Análise de Dados e ETL
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=SeuUsuario&repo=projeto-etl&theme=blue-green)](https://github.com/SeuUsuario/projeto-etl)
 
-### 2. Dashboards Power BI
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=SeuUsuario&repo=dashboards&theme=blue-green)](https://github.com/SeuUsuario/dashboards)
+### 2. Dashboards Power BI  
+
+| Dashboard | Preview | Link |
+|-----------|---------|------|
+| **Produção** 🏭 | ![Produção](https://github.com/user-attachments/assets/f3a3cdaf-accc-41dd-b1aa-b28c2b6348b7) | [Ver Dashboard](https://app.powerbi.com/view?r=eyJrIjoiM2FlZTU5NzMtNmQxZS00NDQyLTg2N2UtZGFhZGJlZDdiZGQ1IiwidCI6ImNmNzJlMmJkLTdhMmItNDc4My1iZGViLTM5ZDU3YjA3Zjc2ZiIsImMiOjR9) |
+| **Recursos Humanos** 👥 | ![RH](https://github.com/user-attachments/assets/80b85981-b876-4668-b817-6e7fbad4df93) | [Ver Dashboard](https://app.powerbi.com/view?r=eyJrIjoiOWEzNGU2MDUtMzRjZi00NWIxLWIwMDctMGUyM2VmZTA5MzI0IiwidCI6ImNmNzJlMmJkLTdhMmItNDc4My1iZGViLTM5ZDU3YjA3Zjc2ZiIsImMiOjR9) |
+| **Financeiro** 💰 | ![Financeiro](https://github.com/user-attachments/assets/80b85981-b876-4668-b817-6e7fbad4df93) | [Ver Dashboard](https://app.powerbi.com/view?r=eyJrIjoiMDIwMTdmNTYtNDNmNi00MTZmLWI3MGItYThkNzM2M2JhZDJmIiwidCI6ImNmNzJlMmJkLTdhMmItNDc4My1iZGViLTM5ZDU3YjA3Zjc2ZiIsImMiOjR9) |
+| **Vendas** 📊 | ![Vendas](https://github.com/user-attachments/assets/80b85981-b876-4668-b817-6e7fbad4df93) | [Ver Dashboard](https://app.powerbi.com/view?r=eyJrIjoiMmEyODhjODAtNjdiYS00MzJjLWIyZmEtMDgyNzY5ODMzZmQ0IiwidCI6ImNmNzJlMmJkLTdhMmItNDc4My1iZGViLTM5ZDU3YjA3Zjc2ZiIsImMiOjR9) |
+
+---
 
 ## 📈 Métricas do GitHub
 
