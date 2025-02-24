@@ -124,14 +124,14 @@ Confira os dashboards interativos criados no **Power BI** para análise e tomada
       </a>
     </td>
     <td align="center">
-      <a href="https://app.powerbi.com/view?r=...">
-        <img src="https://github.com/user-attachments/assets/80b85981-b876-4668-b817-6e7fbad4df93" width="250px">
+      <a href="https://app.powerbi.com/view?r=..">
+        <img src="https://github.com/user-attachments/assets/f3a3cdaf-accc-41dd-b1aa-b28c2b6348b7" width="250px">
       </a>
     </td>
   </tr>
   <tr>
     <td align="center"><a href="https://app.powerbi.com/view?r=...">🔗 Ver Dashboard</a></td>
-    <td align="center"><a href="https://app.powerbi.com/view?r=...">🔗 Ver Dashboard</a></td>
+    <td align="center"><a href="https://app.powerbi.com/view?r=eyJrIjoiMmEyODhjODAtNjdiYS00MzJjLWIyZmEtMDgyNzY5ODMzZmQ0IiwidCI6ImNmNzJlMmJkLTdhMmItNDc4My1iZGViLTM5ZDU3YjA3Zjc2ZiIsImMiOjR9">🔗 Ver Dashboard</a></td>
   </tr>
 </table>
 
