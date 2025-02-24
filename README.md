@@ -139,12 +139,42 @@ Confira os dashboards interativos criados no **Power BI** para análise e tomada
 
 ---
 
-## 📈 Métricas do GitHub
+## 📊 Estatísticas do GitHub
 
 <div align="center">
+  <a href="https://github.com/SeuUsuario">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SeuUsuario&show_icons=true&theme=blue-green&include_all_commits=true&count_private=true"/>
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SeuUsuario&layout=compact&langs_count=7&theme=blue-green"/>
+  </a>
 </div>
+
+## ⚡ Estatísticas Detalhadas
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=SeuUsuario&theme=algolia&row=2&column=3" />
+</div>
+
+## 🔥 Streak Stats
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SeuUsuario&theme=blue-green" />
+</div>
+
+## 📈 Contribuições
+
+<div align="center">
+  <img src="https://activity-graph.herokuapp.com/graph?username=SeuUsuario&theme=react-dark" />
+</div>
+
+## 🛠️ Skills
+
+![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
+![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
+![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
+![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
 
 ## 🎓 Certificações & Especializações
 
