@@ -102,13 +102,13 @@ Confira os dashboards interativos criados no **Power BI** para análise e tomada
     </td>
     <td align="center">
       <a href="https://app.powerbi.com/view?r=...">
-        <img src="https://github.com/user-attachments/assets/80b85981-b876-4668-b817-6e7fbad4df93" width="250px">
+        <img src="https://github.com/user-attachments/assets/7a60d034-facc-41d4-8ee8-937ac9c2bb0e" width="250px">
       </a>
     </td>
   </tr>
   <tr>
-    <td align="center"><a href="https://app.powerbi.com/view?r=...">🔗 Ver Dashboard</a></td>
-    <td align="center"><a href="https://app.powerbi.com/view?r=...">🔗 Ver Dashboard</a></td>
+    <td align="center"><a href="https://app.powerbi.com/view?r=eyJrIjoiM2FlZTU5NzMtNmQxZS00NDQyLTg2N2UtZGFhZGJlZDdiZGQ1IiwidCI6ImNmNzJlMmJkLTdhMmItNDc4My1iZGViLTM5ZDU3YjA3Zjc2ZiIsImMiOjR9">🔗 Ver Dashboard</a></td>
+    <td align="center"><a href="https://app.powerbi.com/view?r=eyJrIjoiOWEzNGU2MDUtMzRjZi00NWIxLWIwMDctMGUyM2VmZTA5MzI0IiwidCI6ImNmNzJlMmJkLTdhMmItNDc4My1iZGViLTM5ZDU3YjA3Zjc2ZiIsImMiOjR9">🔗 Ver Dashboard</a></td>
   </tr>
 </table>
 
@@ -120,7 +120,7 @@ Confira os dashboards interativos criados no **Power BI** para análise e tomada
   <tr>
     <td align="center">
       <a href="https://app.powerbi.com/view?r=...">
-        <img src="https://github.com/user-attachments/assets/80b85981-b876-4668-b817-6e7fbad4df93" width="250px">
+        <img src="https://github.com/user-attachments/assets/e4c4db65-5cdb-42aa-9d9d-6e2e54d4bf96" width="250px">
       </a>
     </td>
     <td align="center">
@@ -130,7 +130,7 @@ Confira os dashboards interativos criados no **Power BI** para análise e tomada
     </td>
   </tr>
   <tr>
-    <td align="center"><a href="https://app.powerbi.com/view?r=...">🔗 Ver Dashboard</a></td>
+    <td align="center"><a href="https://app.powerbi.com/view?r=eyJrIjoiMDIwMTdmNTYtNDNmNi00MTZmLWI3MGItYThkNzM2M2JhZDJmIiwidCI6ImNmNzJlMmJkLTdhMmItNDc4My1iZGViLTM5ZDU3YjA3Zjc2ZiIsImMiOjR9">🔗 Ver Dashboard</a></td>
     <td align="center"><a href="https://app.powerbi.com/view?r=eyJrIjoiMmEyODhjODAtNjdiYS00MzJjLWIyZmEtMDgyNzY5ODMzZmQ0IiwidCI6ImNmNzJlMmJkLTdhMmItNDc4My1iZGViLTM5ZDU3YjA3Zjc2ZiIsImMiOjR9">🔗 Ver Dashboard</a></td>
   </tr>
 </table>
