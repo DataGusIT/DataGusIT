@@ -79,14 +79,63 @@ class DataAnalyst:
 ### 1. Análise de Dados e ETL
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=SeuUsuario&repo=projeto-etl&theme=blue-green)](https://github.com/SeuUsuario/projeto-etl)
 
-### 2. Dashboards Power BI  
+## 📊 Dashboards Power BI  
 
-| Dashboard | Preview | Link |
-|-----------|---------|------|
-| **Produção** 🏭 | ![Produção](https://github.com/user-attachments/assets/f3a3cdaf-accc-41dd-b1aa-b28c2b6348b7) | [Ver Dashboard](https://app.powerbi.com/view?r=eyJrIjoiM2FlZTU5NzMtNmQxZS00NDQyLTg2N2UtZGFhZGJlZDdiZGQ1IiwidCI6ImNmNzJlMmJkLTdhMmItNDc4My1iZGViLTM5ZDU3YjA3Zjc2ZiIsImMiOjR9) |
-| **Recursos Humanos** 👥 | ![RH](https://github.com/user-attachments/assets/80b85981-b876-4668-b817-6e7fbad4df93) | [Ver Dashboard](https://app.powerbi.com/view?r=eyJrIjoiOWEzNGU2MDUtMzRjZi00NWIxLWIwMDctMGUyM2VmZTA5MzI0IiwidCI6ImNmNzJlMmJkLTdhMmItNDc4My1iZGViLTM5ZDU3YjA3Zjc2ZiIsImMiOjR9) |
-| **Financeiro** 💰 | ![Financeiro](https://github.com/user-attachments/assets/80b85981-b876-4668-b817-6e7fbad4df93) | [Ver Dashboard](https://app.powerbi.com/view?r=eyJrIjoiMDIwMTdmNTYtNDNmNi00MTZmLWI3MGItYThkNzM2M2JhZDJmIiwidCI6ImNmNzJlMmJkLTdhMmItNDc4My1iZGViLTM5ZDU3YjA3Zjc2ZiIsImMiOjR9) |
-| **Vendas** 📊 | ![Vendas](https://github.com/user-attachments/assets/80b85981-b876-4668-b817-6e7fbad4df93) | [Ver Dashboard](https://app.powerbi.com/view?r=eyJrIjoiMmEyODhjODAtNjdiYS00MzJjLWIyZmEtMDgyNzY5ODMzZmQ0IiwidCI6ImNmNzJlMmJkLTdhMmItNDc4My1iZGViLTM5ZDU3YjA3Zjc2ZiIsImMiOjR9) |
+Confira os dashboards interativos criados no **Power BI** para análise e tomada de decisões estratégicas.  
+
+---
+
+### 📌 Visão Geral  
+
+<div align="center">
+
+<table>
+  <tr>
+    <td align="center"><strong>📈 Produção</strong></td>
+    <td align="center"><strong>👥 Recursos Humanos</strong></td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://app.powerbi.com/view?r=...">
+        <img src="https://github.com/user-attachments/assets/80b85981-b876-4668-b817-6e7fbad4df93" width="250px">
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://app.powerbi.com/view?r=...">
+        <img src="https://github.com/user-attachments/assets/80b85981-b876-4668-b817-6e7fbad4df93" width="250px">
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><a href="https://app.powerbi.com/view?r=...">🔗 Ver Dashboard</a></td>
+    <td align="center"><a href="https://app.powerbi.com/view?r=...">🔗 Ver Dashboard</a></td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td align="center"><strong>💰 Financeiro</strong></td>
+    <td align="center"><strong>🛒 Vendas</strong></td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://app.powerbi.com/view?r=...">
+        <img src="https://github.com/user-attachments/assets/80b85981-b876-4668-b817-6e7fbad4df93" width="250px">
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://app.powerbi.com/view?r=...">
+        <img src="https://github.com/user-attachments/assets/80b85981-b876-4668-b817-6e7fbad4df93" width="250px">
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><a href="https://app.powerbi.com/view?r=...">🔗 Ver Dashboard</a></td>
+    <td align="center"><a href="https://app.powerbi.com/view?r=...">🔗 Ver Dashboard</a></td>
+  </tr>
+</table>
+
+</div>
 
 ---
 
