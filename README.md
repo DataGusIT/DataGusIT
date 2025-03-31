@@ -141,13 +141,13 @@ Confira os dashboards interativos criados no **Power BI** para análise e tomada
 
 ## 📈 Métricas do GitHub
 
+## 📊 Estatísticas do GitHub
+
 <div align="center">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SeuUsuario&show_icons=true&theme=blue-green&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SeuUsuario&layout=compact&langs_count=7&theme=blue-green"/>
-    <br/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/pin/?username=SeuUsuario&repo=NomeDoRepositorio&theme=blue-green"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/commit-activity?username=SeuUsuario&theme=blue-green"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DataGusIT&show_icons=true&theme=blue-green&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DataGusIT&layout=compact&langs_count=7&theme=blue-green"/>
 </div>
+
 
 
 ## 🎓 Certificações & Especializações
