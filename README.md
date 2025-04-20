@@ -5,7 +5,7 @@
   
 ## <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="28px"> Olá, mundo! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px"> Eu sou Gustavo Moreno
   
-🔍 Analista de Dados | Especialista em BI | Estudante de Gestão de TI  
+🔍 Analise de Dados | BI | Estudante de Gestão de TI  
 🚀 Transformando dados brutos em insights acionáveis  
 💡 Apaixonado por visualização de dados e soluções inteligentes  
   
