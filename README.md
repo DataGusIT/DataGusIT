@@ -7,7 +7,7 @@
   
 🔍 Analise de Dados | BI | Estudante de Gestão de TI  
 🚀 Transformando dados brutos em insights acionáveis  
-💡 Apaixonado por visualização de dados e soluções inteligentes 
+💡 Apaixonado por visualização de dados e soluções inteligentes
   
 </div>
 
