@@ -3,8 +3,6 @@
 
 <div align="center">
   
-# 👨‍💻 Gustavo Moreno
-
 ## <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="28px"> Olá, mundo! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px"> Eu sou Gustavo Moreno
   
 🔍 Analista de Dados | Especialista em BI | Estudante de Gestão de TI  
@@ -42,13 +40,16 @@ class DataAnalyst:
   </a>
 </div>
 
-<picture align="center" >
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/larialbu/larialbu/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/larialbu/larialbu/output/github-contribution-grid-snake-dark.svg">
-  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/larialbu/larialbu/output/github-contribution-grid-snake.svg">
-</picture>
-
 ---
+
+### 🟩 Contribuições GitHub
+
+<div align="center">
+  <a href="https://github.com/DataGusIT">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=DataGusIT&bg_color=0d1117&color=37bcf9&line=37bcf9&point=ffffff&area=true&hide_border=true"/>
+  </a>
+</div>
+
 
 ## 💻 Tecnologias & Ferramentas
 
