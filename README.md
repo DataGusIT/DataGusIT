@@ -1,5 +1,5 @@
 <!-- Onda no topo -->
-<img src="https://raw.githubusercontent.com/larialbu/larialbu/main/assets/wave-top.svg" alt="wave top" style="width: 100%; margin-bottom: -10px;" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=4079a8&height=120&section=header"/>
 
 
 # 👨‍💻 Gustavo Moreno
