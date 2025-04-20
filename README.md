@@ -40,11 +40,11 @@ class DataAnalyst:
   </a>
 </div>
 
-### 🟩 Contribuições Recentes
-
-<div align="center">
-  <img src="https://ghchart.rshah.org/37bcf9/DataGusIT" alt="Gráfico de contribuições do GitHub">
-</div>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DataGusIT/DataGusIT/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DataGusIT/DataGusIT/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/DataGusIT/DataGusIT/output/github-contribution-grid-snake.svg">
+</picture>
 
 ---
 
