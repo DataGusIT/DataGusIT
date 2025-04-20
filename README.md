@@ -241,6 +241,5 @@ graph LR
   </blockquote>
 </div>
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/trinib/trinib/main/.images/footer.svg" width="100%">
-</div>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=4079a8&height=120&section=footer"/>
+
