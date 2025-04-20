@@ -1,15 +1,15 @@
-<!-- Onda no topo -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=4079a8&height=120&section=header"/>
-
-
+<!-- Parte superior da página com ondas -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=316192&height=120&section=header"/>
 
 <div align="center">
   
-  ## <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="28px"> Olá, Mundo! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px"> Eu sou Gustavo Moreno
+# 👨‍💻 Gustavo Moreno
+
+## <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="28px"> Olá, mundo! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px"> Eu sou Gustavo Moreno
   
-  ### 🎯 Analista de Dados | Especialista em BI | Estudante de Gestão de TI
-  
-  🔍 Transformando dados brutos em insights acionáveis
+🔍 Analista de Dados | Especialista em BI | Estudante de Gestão de TI  
+🚀 Transformando dados brutos em insights acionáveis  
+💡 Apaixonado por visualização de dados e soluções inteligentes  
   
 </div>
 
@@ -36,63 +36,27 @@ class DataAnalyst:
 ## 📊 Estatísticas GitHub
 
 <div align="center">
-  <table>
-    <tr>
-      <td>
-        <div align="center">
-          <img src="https://github-readme-stats.vercel.app/api?username=DataGusIT&show_icons=true&theme=blue-green&include_all_commits=true&count_private=true"/>
-        </div>
-      </td>
-      <td>
-        <div align="center">
-          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DataGusIT&layout=compact&langs_count=7&theme=blue-green"/>
-        </div>
-      </td>
-    </tr>
-  </table>
+  <a href="https://github.com/DataGusIT">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DataGusIT&show_icons=true&theme=react&hide_border=false&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DataGusIT&theme=react&hide_border=false&include_all_commits=true&count_private=true&layout=compact"/>
+  </a>
 </div>
 
 ---
 
-## 💻 Linguagens e Ferramentas Mais Utilizadas
+## 💻 Tecnologias & Ferramentas
 
-<div style="display: flex; justify-content: center">
-  <img src="https://img.shields.io/badge/Python-67.4%25-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Power_BI-16.0%25-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
-  <img src="https://img.shields.io/badge/SQL-11.3%25-4479A1?style=for-the-badge&logo=sql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Excel-5.3%25-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
-</div>
-
----
-
-## 🛠️ Stack Tecnológico
-
-<div align="center">
-  
-  <!-- Databases & SQL -->
-  <a href="#"><img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sql&logoColor=white" /></a>
-  <br/>
-  
-  <!-- Visualization & BI -->
-  <a href="#"><img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/DAX-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" /></a>
-  <br/>
-  
-  <!-- Python & Libraries -->
-  <a href="#"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white" /></a>
-  <br/>
-  
-  <!-- ETL Tools -->
-  <a href="#"><img src="https://img.shields.io/badge/SSIS-5C2D91?style=for-the-badge&logo=microsoft&logoColor=white" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/Power_Query-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/Python_ETL-3776AB?style=for-the-badge&logo=python&logoColor=white" /></a>
-  
+<div style="display: inline_block" align="center"><br>
+  <img alt="Gus-Python" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">&nbsp;
+  <img alt="Gus-Pandas" src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white">&nbsp;
+  <img alt="Gus-NumPy" src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white">&nbsp;
+  <img alt="Gus-Matplotlib" src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black">&nbsp;
+  <img alt="Gus-PowerBI" src="https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black">&nbsp;
+  <img alt="Gus-DAX" src="https://img.shields.io/badge/DAX-F2C811?style=for-the-badge&logo=powerbi&logoColor=black">&nbsp;
+  <img alt="Gus-Excel" src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white">&nbsp;
+  <img alt="Gus-PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">&nbsp;
+  <img alt="Gus-SQLServer" src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white">&nbsp;
+  <img alt="Gus-SQL" src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sql&logoColor=white">&nbsp;
 </div>
 
 ---
@@ -190,6 +154,22 @@ skills_df = pd.DataFrame({
 
 ---
 
+## 🎓 Formação & Certificações
+
+<div align="center">
+  
+  👨‍🎓 **Graduando em Gestão de TI**
+  
+  🏅 **Certificações:**
+  - SQL para Análise de Dados
+  - Python para Análise de Dados
+  - Power BI
+  - Análise de Dados com Excel
+  
+</div>
+
+---
+
 ## 📚 Trilha de Aprendizado
 
 ```mermaid
@@ -207,31 +187,27 @@ graph LR
 
 ## 📫 Conecte-se Comigo
 
-<div align="center">
-  <a href="mailto:g.moreno.souza05@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/gustavo-moreno-8a925b26a/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://medium.com/@seu-medium">
-    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />
-  </a>
+<div align="center"> 
+  <a href="mailto:g.moreno.souza05@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/gustavo-moreno-8a925b26a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="https://medium.com/@seu-medium" target="_blank"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" target="_blank"></a>
 </div>
 
 ---
 
+<!-- Contador de Visitantes -->
 <div align="center">
-  
-  ### Quantidade de visitantes
-  
-  <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=DataGusIT&color=blue&style=flat-square&label=Visualizações+do+Perfil" />
-  </p>
-  
+  <br><p align="center"><b>Quantidade de visitantes</b></p>  
+  <p align="center"><img align="center" src="https://profile-counter.glitch.me/{DataGusIT}/count.svg" /></p> 
+  <br>
 </div>
 
----
+<!-- Animação de Contribuição Snake -->
+<picture align="center">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DataGusIT/DataGusIT/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DataGusIT/DataGusIT/output/github-contribution-grid-snake.svg">
+  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/DataGusIT/DataGusIT/output/github-contribution-grid-snake.svg">
+</picture>
 
 <div align="center">
   <blockquote>
@@ -240,5 +216,5 @@ graph LR
   </blockquote>
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=4079a8&height=120&section=footer"/>
-
+<!-- Parte inferior da página com ondas -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=316192&height=120&section=footer"/>
