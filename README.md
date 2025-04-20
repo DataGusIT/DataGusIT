@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="https://raw.githubusercontent.com/trinib/trinib/main/.images/banner.svg" width="100%">
+</div>
+
 # 👨‍💻 Gustavo Moreno
 
 <div align="center">
@@ -187,22 +191,6 @@ skills_df = pd.DataFrame({
 
 ---
 
-## 🎓 Formação & Certificações
-
-<div align="center">
-  
-  👨‍🎓 **Graduando em Gestão de TI**
-  
-  🏅 **Certificações:**
-  - SQL para Análise de Dados
-  - Python para Análise de Dados
-  - Power BI
-  - Análise de Dados com Excel
-  
-</div>
-
----
-
 ## 📚 Trilha de Aprendizado
 
 ```mermaid
@@ -251,4 +239,8 @@ graph LR
     "Em Deus e nos dados nós confiamos. Todos os outros devem trazer dados."
     <br>- W. Edwards Deming
   </blockquote>
+</div>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/trinib/trinib/main/.images/footer.svg" width="100%">
 </div>
