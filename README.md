@@ -1,6 +1,6 @@
-<div align="center">
-  <img src="https://raw.githubusercontent.com/trinib/trinib/main/.images/banner.svg" width="100%">
-</div>
+<!-- Onda no topo -->
+<img src="https://raw.githubusercontent.com/larialbu/larialbu/main/assets/wave-top.svg" alt="wave top" style="width: 100%; margin-bottom: -10px;" />
+
 
 # 👨‍💻 Gustavo Moreno
 
