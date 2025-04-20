@@ -40,16 +40,13 @@ class DataAnalyst:
   </a>
 </div>
 
----
-
-### 🟩 Contribuições GitHub
+### 🟩 Contribuições Recentes
 
 <div align="center">
-  <a href="https://github.com/DataGusIT">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=DataGusIT&bg_color=0d1117&color=37bcf9&line=37bcf9&point=ffffff&area=true&hide_border=true"/>
-  </a>
+  <img src="https://ghchart.rshah.org/37bcf9/DataGusIT" alt="Gráfico de contribuições do GitHub">
 </div>
 
+---
 
 ## 💻 Tecnologias & Ferramentas
 
