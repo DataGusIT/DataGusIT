@@ -40,6 +40,8 @@ class DataAnalyst:
   </a>
 </div>
 
+![Snake animation](https://github.com/DataGusIT/DataGusIT/blob/output/github-contribuiton-grid-snake.svg)
+
 ---
 
 ## 💻 Tecnologias & Ferramentas
