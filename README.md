@@ -130,17 +130,6 @@ FROM skills
 WHERE impact = 'High';
 ```
 
-### 📊 Power BI & DAX
-```dax
-EVALUATE
-SUMMARIZECOLUMNS(
-    "Skill", "Data Modeling",
-    "Expertise", "DAX Calculations",
-    "Knowledge", "Custom Visuals",
-    "Level", "Advanced"
-)
-```
-
 ### 🐍 Python Data Analysis
 ```python
 skills_df = pd.DataFrame({
@@ -151,37 +140,6 @@ skills_df = pd.DataFrame({
 ```
 
 </div>
-
----
-
-## 🎓 Formação & Certificações
-
-<div align="center">
-  
-  👨‍🎓 **Graduando em Gestão de TI**
-  
-  🏅 **Certificações:**
-  - SQL para Análise de Dados
-  - Python para Análise de Dados
-  - Power BI
-  - Análise de Dados com Excel
-  
-</div>
-
----
-
-## 📚 Trilha de Aprendizado
-
-```mermaid
-graph LR
-    A[SQL] -->|Evolução| B[Advanced SQL]
-    B --> C[Data Modeling]
-    C --> D[Performance Tuning]
-    E[Python] -->|Desenvolvimento| F[Data Analysis]
-    F --> G[Machine Learning]
-    H[Power BI] -->|Expertise| I[Advanced DAX]
-    I --> J[Custom Visuals]
-```
 
 ---
 
