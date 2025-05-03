@@ -1,10 +1,10 @@
-<!-- Cabeçalho animado personalizado -->
+<!-- Cabeçalho cyber tech personalizado -->
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:5E72EB,100:FF9190&height=190&section=header&text=Gustavo%20Moreno&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=36" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00FFFF,100:8A2BE2&height=190&section=header&text=Gustavo%20Moreno&fontSize=50&fontColor=ffffff&animation=twinkling&fontAlignY=36" />
 </div>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=5E72EB&center=true&vCenter=true&width=435&lines=Analista+de+Dados;Estudante+de+Gest%C3%A3o+de+TI;Entusiasta+de+BI;Transformando+dados+em+insights" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=5E72EB&center=true&vCenter=true&width=435&lines=Futuro+Analista+de+Dados;Estudante+de+Gest%C3%A3o+de+TI;Entusiasta+de+BI;Transformando+dados+em+insights" alt="Typing SVG" />
 </p>
 
 <div align="center">
@@ -265,5 +265,5 @@ Paixões:
 
 <!-- Rodapé -->
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=100:FF9190,0:5E72EB&height=190&section=footer&text=Obrigado%20pela%20visita!&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=70" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=100:8A2BE2,0:00FFFF&height=190&section=footer&text=Obrigado%20pela%20visita!&fontSize=40&fontColor=ffffff&animation=twinkling&fontAlignY=70" />
 </div>
