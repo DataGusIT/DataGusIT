@@ -41,10 +41,6 @@ Apaixonado por transformar dados complexos em insights acionáveis através de v
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-Com certeza! Fiz o ajuste para garantir que os ícones de logo apareçam corretamente nos itens que você mencionou.
-
-Aqui está sua Stack Tecnológica atualizada:
-
 ## 🛠️ Stack Tecnológica
 
 <div align="center">
