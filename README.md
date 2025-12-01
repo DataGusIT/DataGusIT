@@ -123,7 +123,14 @@ Análise de desempenho comercial, tendências de mercado e forecasting
 ## 📈 Estatísticas do GitHub
 
 <div align="center">
-  <img src="github-metrics.svg" alt="Metrics" width="100%">
+  <a href="https://github.com/DataGusIT">
+    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=DataGusIT&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0D1117" />
+    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DataGusIT&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+  </a>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DataGusIT&theme=tokyonight&hide_border=true&background=0D1117" alt="DataGusIT" />
 </div>
 
 <div align="center">
@@ -134,67 +141,6 @@ Análise de desempenho comercial, tendências de mercado e forecasting
     <img width="80%" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/DataGusIT/DataGusIT/output/github-contribution-grid-snake.svg">
   </picture>
 </div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-## 🎯 Objetivos Profissionais
-
-<div align="center">
-
-```mermaid
-mindmap
-  root((Carreira))
-    Especialização
-      Business Intelligence
-      Data Analytics
-      Machine Learning
-    Desenvolvimento
-      Análises Preditivas
-      Deep Learning
-      Big Data
-    Contribuição
-      Open Source
-      Comunidade Tech
-      Projetos Inovadores
-```
-
-</div>
-
-<br>
-
-<table align="center">
-<tr>
-<td align="center" width="33%">
-
-🎯 **Expertise em BI**
-<br>
-Consolidar conhecimento em Business Intelligence e soluções de Data Analytics
-
-</td>
-<td align="center" width="33%">
-
-🤖 **Machine Learning**
-<br>
-Desenvolver proficiência em ML e análises preditivas avançadas
-
-</td>
-<td align="center" width="33%">
-
-🌟 **Open Source**
-<br>
-Contribuir com projetos voltados para análise e visualização de dados
-
-</td>
-</tr>
-</table>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<div align="center">
-
-</div>
-
-<br>
 
 <div align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,3,5,24&height=100&section=footer" />
