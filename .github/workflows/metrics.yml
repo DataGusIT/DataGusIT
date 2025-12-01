@@ -16,8 +16,16 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
           user: DataGusIT
           template: classic
-          base: "header, activity, community, repositories, metadata"
+          # Removi 'header' para não repetir sua foto/nome
+          base: "activity, community, repositories, metadata"
           config_timezone: "America/Sao_Paulo"
+          
+          # === ESTILO VISUAL (CORRIGIDO) ===
+          # Define o tema escuro
+          config_theme: night
+          # Força a cor de fundo do Tokyo Night (igual seus cards antigos)
+          config_bg_color: "0D1117"
+          config_padding: 0, 8 + 5%
           
           # Plugin: Linguagens
           plugin_languages: yes
@@ -25,7 +33,6 @@ jobs:
           plugin_languages_limit: 8
           plugin_languages_sections: most-used
           plugin_languages_colors: github
-          # O ERRO ESTAVA AQUI EMBAIXO (Adicionei aspas no "0%")
           plugin_languages_threshold: "0%"
           
           # Plugin: Hábitos
