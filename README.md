@@ -123,14 +123,7 @@ Análise de desempenho comercial, tendências de mercado e forecasting
 ## 📈 Estatísticas do GitHub
 
 <div align="center">
-  <a href="https://github.com/DataGusIT">
-    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=DataGusIT&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0D1117" />
-    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DataGusIT&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" />
-  </a>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DataGusIT&theme=tokyonight&hide_border=true&background=0D1117" alt="DataGusIT" />
+  <img src="github-metrics.svg" alt="Metrics" width="100%">
 </div>
 
 <div align="center">
