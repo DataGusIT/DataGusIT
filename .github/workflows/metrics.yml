@@ -1,12 +1,10 @@
 name: Metrics
 on:
-  # 1. Atualiza automaticamente as 00:00 (UTC)
+  # Atualiza as 00:00 todos os dias
   schedule: [{cron: "0 0 * * *"}]
-  # 2. Permite você rodar manualmente na aba "Actions" para testar
+  # Permite rodar manualmente
   workflow_dispatch:
-  # 3. Roda a cada vez que você der push na main/master
   push: {branches: ["master", "main"]}
-
 jobs:
   github-metrics:
     runs-on: ubuntu-latest
@@ -15,35 +13,26 @@ jobs:
     steps:
       - uses: lowlighter/metrics@latest
         with:
-          # Seu token criado no Passo 1
           token: ${{ secrets.METRICS_TOKEN }}
-
-          # Opções Gerais
           user: DataGusIT
           template: classic
-          base: header, activity, community, repositories, metadata
-          config_timezone: America/Sao_Paulo
+          base: "header, activity, community, repositories, metadata"
+          config_timezone: "America/Sao_Paulo"
           
-          # Design (Tema Tokyo Night)
-          config_style:Wrapper
-          config_padding: 0, 8 + 5%
-          
-          # Plugin: Linguagens (Para mostrar Python, SQL, etc)
+          # Plugin: Linguagens
           plugin_languages: yes
-          plugin_languages_ignored: >-
-            html, css, tex, less, dockerfile, makefile, qmake, lex, cmake, shell,
-            gnuplot
+          plugin_languages_ignored: "html, css, tex, less, dockerfile, makefile, qmake, lex, cmake, shell, gnuplot"
           plugin_languages_limit: 8
           plugin_languages_sections: most-used
           plugin_languages_colors: github
-          plugin_languages_threshold: 0%
+          # O ERRO ESTAVA AQUI EMBAIXO (Adicionei aspas no "0%")
+          plugin_languages_threshold: "0%"
           
-          # Plugin: Hábitos (Mostra dias e horas que você codad)
+          # Plugin: Hábitos
           plugin_habits: yes
           plugin_habits_charts: yes
           plugin_habits_days: 14
           plugin_habits_facts: yes
           plugin_habits_from: 200
           
-          # Saída: Gera um arquivo SVG
-          filename: github-metrics.svg
+          filename: "github-metrics.svg"
