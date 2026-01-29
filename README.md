@@ -3,7 +3,7 @@
 # Hi! I'm Gustavo!
 
 <div align="left">
-  <img align="right" width="320" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3ZidXN4Z3Z6NHR4bmN6eXJ6eXJ6eXJ6eXJ6eXJ6eXJ6eXImZXA9XYxX2ludGVybmFsX2dpZl9ieV9iZCZjdD1n/o2K69G6f88T8Y/giphy.gif" alt="GIF"/>
+  <img align="right" width="320" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGR6MjdybG1nOW94b3VxdWs2dGprYW13MW5uY3JpOHl5ZzR6MHBuMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/MPOp0rmUUEKfcvFckS/giphy.gif" alt="GIF"/>
 </div>
 
 Hi! My name is Gustavo Moreno Souza. You can connect with me here:
