@@ -35,7 +35,6 @@ I am an IT Management graduate from FATEC. I am passionate about technology and 
 
 Throughout my academic and professional journey, I have developed a versatile skill set that combines IT management with technical execution. My experience includes the development of full-scale management systems using Python and PyQt5, where I led a 7-month pilot project from requirements to implementation. This project allowed me to apply theoretical concepts to real-world business challenges, optimizing operational processes and data handling.
 
-I am also experienced in web scraping and process automation, notably through projects like "PSN Store Analytics," which uses Playwright and Python to automate game price collection and analysis. Beyond technical development, I am committed to social impact projects, having built systems focused on accessibility and support for the autistic community, always prioritizing user experience and social responsibility.
 
 ---
 
